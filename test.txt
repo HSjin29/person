@@ -1,7 +1,3 @@
 aaaaaaaa
-<<<<<<< HEAD
 
 ccc
-=======
-dddd
->>>>>>> 83b6756b37f1acd3d91e46c9900cf00ddf999e2d
